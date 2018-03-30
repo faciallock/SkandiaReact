@@ -1,0 +1,21 @@
+
+.normal {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+.logo{
+   height: 50px;
+  background: url(https://static.wixstatic.com/media/7571b6_7f4b31b7992549fb9babc74c0a4753f7.png/v1/fill/w_335,h_335,al_c,usm_0.66_1.00_0.01/7571b6_7f4b31b7992549fb9babc74c0a4753f7.png) no-repeat center 0;
+  background-size: 388px 328px;
+  
+}
+.content {
+  flex: 1;
+  display: flex;
+}
+
+.main {
+  padding: 0 8px;
+  flex: 1 0 auto;
+}

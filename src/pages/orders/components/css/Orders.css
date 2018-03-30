@@ -1,0 +1,26 @@
+.loading{
+    margin: 0rem 1.5rem !important;
+}
+.headerDetail{
+   
+    padding: 1rem !important;
+    border-bottom:1px solid #e8e8e8 !important; 
+    display : inline-flex !important;
+    width:100% !important;
+}
+.searchContainer{
+    position: relative;
+    float: right;
+    width:38% !important;
+    overflow: auto;
+}
+.orderTitleContainer{
+    
+    width:59% !important;
+    text-align: left !important;
+    position: relative;
+    overflow: auto;
+}
+.search{
+    float: right;
+}

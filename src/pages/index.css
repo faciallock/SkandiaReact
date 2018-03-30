@@ -1,0 +1,29 @@
+
+.normal {
+  font-family: Arial;
+  margin-top: 1em;
+  text-align: center;
+}
+
+.title {
+  font-size: 2.5rem;
+  font-weight: normal;
+  letter-spacing: -1px;
+}
+
+.welcome {
+  height: 328px;
+  background: url(https://static.wixstatic.com/media/7571b6_7f4b31b7992549fb9babc74c0a4753f7.png/v1/fill/w_335,h_335,al_c,usm_0.66_1.00_0.01/7571b6_7f4b31b7992549fb9babc74c0a4753f7.png) no-repeat center 0;
+  background-size: 388px 328px;
+}
+
+.list {
+  font-size: 1.2em;
+  margin-top: 1.8em;
+  list-style: none;
+  line-height: 1.5em;
+}
+
+.list code {
+  background: #f7f7f7;
+}
